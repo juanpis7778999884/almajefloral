@@ -53,7 +53,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://wa.me/TU_NUMERO"
+                href="https://wa.me/573115510169"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 flex items-center justify-center bg-[var(--card)] text-[var(--foreground)] hover:bg-[var(--moss-green)] hover:text-white transition-colors hover-wobble"
@@ -90,7 +90,7 @@ export default function Footer() {
               <a href="#nosotros" className="block font-body text-[var(--muted-foreground)] hover:text-[var(--primary)] transition-colors">
                 Sobre Nosotros
               </a>
-              <a href="https://wa.me/TU_NUMERO" target="_blank" rel="noopener noreferrer" className="block font-body text-[var(--muted-foreground)] hover:text-[var(--primary)] transition-colors">
+              <a href="https://wa.me/573115510169" target="_blank" rel="noopener noreferrer" className="block font-body text-[var(--muted-foreground)] hover:text-[var(--primary)] transition-colors">
                 Contacto
               </a>
             </nav>
@@ -101,7 +101,7 @@ export default function Footer() {
             <h4 className="font-display text-xl text-[var(--foreground)] mb-4">Contáctanos</h4>
             <div className="space-y-4">
               <a
-                href="https://wa.me/TU_NUMERO"
+                href="https://wa.me/573115510169"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 font-body text-[var(--muted-foreground)] hover:text-[var(--moss-green)] transition-colors group"

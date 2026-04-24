@@ -158,7 +158,7 @@ ${formData.notes || "Sin notas adicionales"}
     `.trim()
 
     const encodedMessage = encodeURIComponent(message)
-    const whatsappUrl = `https://wa.me/TU_NUMERO?text=${encodedMessage}`
+    const whatsappUrl = `https://wa.me/573115510169?text=${encodedMessage}`
     
     window.open(whatsappUrl, '_blank')
   }

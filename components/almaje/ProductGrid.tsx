@@ -49,15 +49,7 @@ const products: Product[] = [
     category: "Ramos",
     colors: ["#C44536", "#1A1A1A", "#FFFFFF"]
   },
-  {
-    id: 6,
-    name: "Girasoles con Kuromi",
-    description: "Adorable ramo de girasoles con peluche de Kuromi en envoltorio de lunares. Perfecto para fans de Sanrio.",
-    price: 120000,
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-04-07%20at%202.47.33%20PM%20%282%29-KV7NvqW18zKGxQY4bKNDjqRaYcgIvb.jpeg",
-    category: "Especiales",
-    colors: ["#FFB703", "#1A1A1A", "#8B5CF6"]
-  },
+  
   {
     id: 7,
     name: "Mix Tulipanes y Girasoles",
@@ -76,15 +68,7 @@ const products: Product[] = [
     category: "Especiales",
     colors: ["#F8C8DC", "#FFFFFF", "#C9A227"]
   },
-  {
-    id: 9,
-    name: "Hello Kitty Elegante",
-    description: "Sofisticado ramo con Hello Kitty en estilo gótico con flores blancas y mariposas doradas.",
-    price: 145000,
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-04-07%20at%202.47.34%20PM-qro7XKUAmu3Xw8XXQZ1yreKpW0A2J0.jpeg",
-    category: "Especiales",
-    colors: ["#1A1A1A", "#FFFFFF", "#C9A227"]
-  },
+  
   {
     id: 10,
     name: "Tulipanes y Lirios Rosados",
