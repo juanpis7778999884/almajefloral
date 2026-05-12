@@ -19,7 +19,7 @@ const products: Product[] = [
   },
   {
     id: 3,
-    name: "Ramo Cumpleanos Rosa",
+    name: "La Primera vez",
     description: "Gran ramo de cumpleanos con tulipanes, lirios y gerberas en tonos rosa. Incluye tarjeta personalizada y foto.",
     price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.36%20PM-3UJjYcMMOX9kRukajZ8mg2GtARrIY6.jpeg",
@@ -28,7 +28,7 @@ const products: Product[] = [
   },
   {
     id: 4,
-    name: "Canasta Just For You Rosa",
+    name: "Canasta",
     description: "Hermosa canasta blanca con flores rosas variadas: lirios, tulipanes, margaritas y flores de cerezo.",
     price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM-np59d8IS37JCHrs42NVmpXPlqg7v3A.jpeg",
@@ -65,8 +65,8 @@ const products: Product[] = [
   {
     id: 8,
     name: "Ramo Rosa Dorado",
-    description: "Majestuoso ramo con lirios rosas, tulipanes, margaritas y detalles en papel dorado. Con perlas decorativas.",
-    price: 80000, // COP
+    description: "Majestuoso ramo con lirios rosas, tulipanes, margaritas y detalles en papel dorado. Con perlas decorativas y luces .",
+    price: 90000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%286%29-1xZvmhKf7PyRQQ5h9xmMOXraWjcE3R.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#C9A227", "#FFFFFF"]
@@ -82,7 +82,7 @@ const products: Product[] = [
   },
   {
     id: 10,
-    name: "Rosa de Feliz Cumpleaños",
+    name: "Ramo rosa de rosas hermosas",
     description: "Ramo de cumpleanos con tulipanes rosas vibrantes, margaritas blancas y topper de Happy Birthday.",
     price: 75000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%282%29-GEgJEnLV8JoO6rIfcPWsTmIOW5eEEI.jpeg",
@@ -128,7 +128,7 @@ const products: Product[] = [
   {
     id: 15,
     name: "Flores Amarillas Everyday",
-    description: "Colorido ramo con flores amarillas y naranjas en soporte Everyday. Incluye girasol y margaritas.",
+    description: "Colorido ramo con flores amarillas y naranjas en soporte Everyday.",
     price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%281%29-NPVE07vMQrSFCewujhsdKWsNewLKwz.jpeg",
     category: "Individuales",
@@ -165,7 +165,7 @@ const products: Product[] = [
     id: 19,
     name: "Florero Grande",
     description: "Espectacular florero grande con gerberas, tulipanes, lirios basicos, amapolas, margaritas y follage en tonos rosa, amarillo y azul. Incluye tarjeta personalizada.",
-    price: 100000, // COP
+    price: 110000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%284%29-pckY7jxdXmUOZ8ait0n6htC4R8n0IZ.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFB703", "#87CEEB"]
@@ -191,7 +191,7 @@ const products: Product[] = [
   {
     id: 22,
     name: "Orquidea Realista",
-    description: "Sofisticada orquidea realista rosa y blanca en maceta ceramica blanca. Una pieza de arte floral de larga duracion.",
+    description: "Sofisticada orquidea realista rosa y blanca en una maceta blanca. Una pieza de arte floral de larga duracion.",
     price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM%20%281%29-pAcEFjyZcJzcbnRd1bH9oc61DRRpwe.jpeg",
     category: "Arreglos",
@@ -236,7 +236,7 @@ const products: Product[] = [
   {
     id: 27,
     name: "Ramo Lily",
-    description: "Lujoso ramo con lirios realistas stargazer, follage y luces LED. Envuelto elegantemente con lazo rosa.",
+    description: "Lujoso ramo con lirios realistas stargazer y follage. Envuelto elegantemente con lazo rosa.",
     price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.37%20PM-FtAX4G59TN14oK9gbHOzuupoqAhpz3.jpeg",
     category: "Ramos",
