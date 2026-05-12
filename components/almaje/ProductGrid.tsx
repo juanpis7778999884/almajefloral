@@ -90,7 +90,7 @@ const products: Product[] = [
   },
   {
     id: 10,
-    name: "Happy Birthday Rosa",
+    name: "Rosa de Feliz Cumpleaños",
     description: "Ramo de cumpleanos con tulipanes rosas vibrantes, margaritas blancas y topper de Happy Birthday.",
     price: 75000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%282%29-GEgJEnLV8JoO6rIfcPWsTmIOW5eEEI.jpeg",
@@ -117,7 +117,7 @@ const products: Product[] = [
   },
   {
     id: 13,
-    name: "Lirios y Tulipanes Elegante",
+    name: "Lirios y Tulipanes",
     description: "Sofisticado ramo con lirios rosas y tulipanes envuelto en papel blanco con lazo rosa delicado.",
     price: 50000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%284%29-L0dj0tQH3jCeHwOB2TfjJxQnfOC9tl.jpeg",
@@ -126,7 +126,7 @@ const products: Product[] = [
   },
   {
     id: 14,
-    name: "Girasoles Individuales Surtidos",
+    name: "Girasoles Individuales ",
     description: "Set de girasoles individuales con margaritas en soportes de colores: verde, amarillo, lavanda y rosa.",
     price: 15000, // COP - precio por unidad
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM-WYLnNKllFTQsiN7soBADxcHMPsSYCf.jpeg",
@@ -171,7 +171,7 @@ const products: Product[] = [
   },
   {
     id: 19,
-    name: "Florero Grande Colorido",
+    name: "Florero Grande",
     description: "Espectacular florero grande con gerberas, tulipanes, lirios basicos, amapolas, margaritas y follage en tonos rosa, amarillo y azul. Incluye tarjeta personalizada.",
     price: 100000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%284%29-pckY7jxdXmUOZ8ait0n6htC4R8n0IZ.jpeg",
@@ -180,7 +180,7 @@ const products: Product[] = [
   },
   {
     id: 20,
-    name: "Jardin de Hadas con Luces",
+    name: "Jardin de Hadas",
     description: "Magico ramo jardin de hadas con tulipanes, margaritas, lirios basicos, lirio realista, follage y luces LED calidas. Perfecto para momentos romanticos.",
     price: 90000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM%20%282%29-jZkRCEeIT3UymjFBYlod99P6oQwkjC.jpeg",
@@ -189,7 +189,7 @@ const products: Product[] = [
   },
   {
     id: 21,
-    name: "Mini Girasoles en Maceta",
+    name: "Mini Girasoles",
     description: "Adorables mini girasoles en maceta artesanal cafe. Perfectos para decorar escritorios y espacios pequenos.",
     price: 8000, // COP - precio por unidad
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%281%29-HGnGlu5bYSdqdUbzvJmMJODg7t2rXB.jpeg",
@@ -225,7 +225,7 @@ const products: Product[] = [
   },
   {
     id: 25,
-    name: "Bouquet 1 Dia de la Madre",
+    name: "Bouquet 1",
     description: "Delicado bouquet con tulipanes, rosa, amapolas, hortensia, anturio, lirio basico y follage. Incluye tarjeta de Feliz Dia de la Madre.",
     price: 80000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%282%29-Y10IsVbLiD198eTTsNUnnqRfsOMbyS.jpeg",
@@ -234,7 +234,7 @@ const products: Product[] = [
   },
   {
     id: 26,
-    name: "Individual Tulipan Realista",
+    name: "Individual 1",
     description: "Pequeno y romantico bouquet individual con tulipan realista y flores rosa, decorado con encaje y tarjeta personalizada.",
     price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM-IZsaQuLi8hMXGmXlQezKitBncLxYTo.jpeg",
@@ -243,7 +243,7 @@ const products: Product[] = [
   },
   {
     id: 27,
-    name: "Ramo Lirios Estrella con Luces",
+    name: "Ramo Lily",
     description: "Lujoso ramo con lirios realistas stargazer, follage y luces LED. Envuelto elegantemente con lazo rosa.",
     price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.37%20PM-FtAX4G59TN14oK9gbHOzuupoqAhpz3.jpeg",
@@ -252,7 +252,7 @@ const products: Product[] = [
   },
   {
     id: 28,
-    name: "Rosa Azul Lindo Dia",
+    name: "Individual  2",
     description: "Hermosa rosa azul individual con tarjeta de Lindo Dia y Snoopy. Envuelta en tul blanco con lazo azul.",
     price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%283%29-mDZRoYIgaCU87GE369Cmq3tP2aLbZ1.jpeg",
@@ -261,7 +261,7 @@ const products: Product[] = [
   },
   {
     id: 29,
-    name: "Ramo Girasol con Mariposas",
+    name: "Ramo Individual",
     description: "Colorido ramo con girasol, margaritas moradas y azules, decorado con mariposas. Envuelto en papel lila.",
     price: 30000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.41%20PM-4Dprvea6QsOA648mgKuZ7xjoqhrqKt.jpeg",
@@ -270,7 +270,7 @@ const products: Product[] = [
   },
   {
     id: 30,
-    name: "Ramo Rose Elegante",
+    name: "Ramo Rose ",
     description: "Ramo rose con tulipanes, gerberas, rosa y follage. Envuelto en papel rosa con lazo y mariposa.",
     price: 55000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM-lmRo9giM5JO6As2I3ZYAR5JeR7la2O.jpeg",
