@@ -7,15 +7,7 @@ import ProductCard, { Product } from "./ProductCard"
 // PRODUCTOS - Modifica los precios aqui
 // ==========================================
 const products: Product[] = [
-  {
-    id: 1,
-    name: "Arreglo Congratulations",
-    description: "Elegante arreglo en caja redonda con tulipanes rosas, flores crema y margaritas. Incluye tarjeta de felicitaciones.",
-    price: 70000, // COP
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM-vfnSl3XHomFvMi9p31JFaZE076KVBN.jpeg",
-    category: "Arreglos",
-    colors: ["#F8C8DC", "#FFFDD0", "#FFFFFF"]
-  },
+  
   {
     id: 2,
     name: "Lirios Rojos Pasion",
