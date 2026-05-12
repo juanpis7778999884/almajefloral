@@ -11,7 +11,7 @@ const products: Product[] = [
     id: 1,
     name: "Arreglo Congratulations",
     description: "Elegante arreglo en caja redonda con tulipanes rosas, flores crema y margaritas. Incluye tarjeta de felicitaciones.",
-    price: 95000, // COP
+    price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM-vfnSl3XHomFvMi9p31JFaZE076KVBN.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFFDD0", "#FFFFFF"]
@@ -20,7 +20,7 @@ const products: Product[] = [
     id: 2,
     name: "Lirios Rojos Pasion",
     description: "Impresionante ramo de lirios rojos intensos con margaritas blancas y tulipanes. Envuelto en papel blanco elegante.",
-    price: 85000, // COP
+    price: 50000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM%20%284%29-7omVtWQ13sbCZG4H769ba29DzDlfGN.jpeg",
     category: "Ramos",
     colors: ["#8B0000", "#FFFFFF", "#4A5D23"]
@@ -29,7 +29,7 @@ const products: Product[] = [
     id: 3,
     name: "Ramo Cumpleanos Rosa",
     description: "Gran ramo de cumpleanos con tulipanes, lirios y gerberas en tonos rosa. Incluye tarjeta personalizada y foto.",
-    price: 120000, // COP
+    price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.36%20PM-3UJjYcMMOX9kRukajZ8mg2GtARrIY6.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#C71585", "#4A5D23"]
@@ -38,7 +38,7 @@ const products: Product[] = [
     id: 4,
     name: "Canasta Just For You Rosa",
     description: "Hermosa canasta blanca con flores rosas variadas: lirios, tulipanes, margaritas y flores de cerezo.",
-    price: 75000, // COP
+    price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM-np59d8IS37JCHrs42NVmpXPlqg7v3A.jpeg",
     category: "Canastas",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
@@ -47,7 +47,7 @@ const products: Product[] = [
     id: 5,
     name: "Girasol con Mariposas",
     description: "Radiante girasol grande con margaritas y mariposas doradas decorativas. Envuelto en papel rosa y lavanda.",
-    price: 70000, // COP
+    price: 30000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM%20%282%29-U8w4CLKImGIHcQlXjQJRGqsQ8JjHKm.jpeg",
     category: "Ramos",
     colors: ["#FFB703", "#FFFFFF", "#C9A227"]
@@ -56,7 +56,7 @@ const products: Product[] = [
     id: 6,
     name: "Canasta Girasoles Azul",
     description: "Alegre canasta con girasoles, flores azules y margaritas. Incluye cinta azul personalizada.",
-    price: 85000, // COP
+    price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM%20%281%29-EOBT6BKyJBCPIT8V1DXBWfRwOfQNJa.jpeg",
     category: "Canastas",
     colors: ["#FFB703", "#87CEEB", "#FFFFFF"]
@@ -65,7 +65,7 @@ const products: Product[] = [
     id: 7,
     name: "Anturio Rosa Delicado",
     description: "Pequeno ramo con anturio rosa, margaritas y helecho. Perfecto para ocasiones especiales.",
-    price: 35000, // COP
+    price: 25000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.35%20PM%20%283%29-AP73CJi5vLuCQh8zGOnvkKKaCpklXY.jpeg",
     category: "Individuales",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
@@ -74,7 +74,7 @@ const products: Product[] = [
     id: 8,
     name: "Ramo Rosa Dorado",
     description: "Majestuoso ramo con lirios rosas, tulipanes, margaritas y detalles en papel dorado. Con perlas decorativas.",
-    price: 110000, // COP
+    price: 80000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%286%29-1xZvmhKf7PyRQQ5h9xmMOXraWjcE3R.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#C9A227", "#FFFFFF"]
@@ -83,7 +83,7 @@ const products: Product[] = [
     id: 9,
     name: "Rosas Satinadas con Mariposas",
     description: "Elegante ramo de rosas de satin en tonos rosa y crema con mariposas doradas decorativas.",
-    price: 75000, // COP
+    price: 70000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%282%29-tksyhnens15Q9xEM7OATEDr2JqvbdS.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#FFFDD0", "#C9A227"]
@@ -92,7 +92,7 @@ const products: Product[] = [
     id: 10,
     name: "Happy Birthday Rosa",
     description: "Ramo de cumpleanos con tulipanes rosas vibrantes, margaritas blancas y topper de Happy Birthday.",
-    price: 90000, // COP
+    price: 75000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%282%29-GEgJEnLV8JoO6rIfcPWsTmIOW5eEEI.jpeg",
     category: "Ramos",
     colors: ["#FF69B4", "#FFFFFF", "#4A5D23"]
@@ -101,7 +101,7 @@ const products: Product[] = [
     id: 11,
     name: "Lirios Rosa con Luces",
     description: "Hermoso ramo de lirios rosas con borde blanco y luces LED calidas. Magico para momentos especiales.",
-    price: 105000, // COP
+    price: 55000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%283%29-F3mS3uhKRq4UPBw0KiaKpc37lmijyi.jpeg",
     category: "Especiales",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
@@ -110,7 +110,7 @@ const products: Product[] = [
     id: 12,
     name: "Rosas Coral con Perlas",
     description: "Delicado ramo de rosas coral de satin decoradas con perlas y cinta. Envuelto en papel dorado y blanco.",
-    price: 80000, // COP
+    price: 45000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%283%29-cJaBeoJmydTFsNdrjc9YHZUjACqKO5.jpeg",
     category: "Ramos",
     colors: ["#E9967A", "#FFFFFF", "#C9A227"]
@@ -119,7 +119,7 @@ const products: Product[] = [
     id: 13,
     name: "Lirios y Tulipanes Elegante",
     description: "Sofisticado ramo con lirios rosas y tulipanes envuelto en papel blanco con lazo rosa delicado.",
-    price: 70000, // COP
+    price: 50000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%284%29-L0dj0tQH3jCeHwOB2TfjJxQnfOC9tl.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
@@ -128,7 +128,7 @@ const products: Product[] = [
     id: 14,
     name: "Girasoles Individuales Surtidos",
     description: "Set de girasoles individuales con margaritas en soportes de colores: verde, amarillo, lavanda y rosa.",
-    price: 28000, // COP - precio por unidad
+    price: 15000, // COP - precio por unidad
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM-WYLnNKllFTQsiN7soBADxcHMPsSYCf.jpeg",
     category: "Individuales",
     colors: ["#FFB703", "#98FB98", "#E6E6FA"]
@@ -137,7 +137,7 @@ const products: Product[] = [
     id: 15,
     name: "Flores Amarillas Everyday",
     description: "Colorido ramo con flores amarillas y naranjas en soporte Everyday. Incluye girasol y margaritas.",
-    price: 35000, // COP
+    price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.33%20PM%20%281%29-NPVE07vMQrSFCewujhsdKWsNewLKwz.jpeg",
     category: "Individuales",
     colors: ["#FFB703", "#FFA500", "#FFFFFF"]
@@ -146,7 +146,7 @@ const products: Product[] = [
     id: 16,
     name: "Girasoles con Luces LED",
     description: "Espectacular ramo de girasoles con margaritas y luces LED. Perfecto para fotos al atardecer.",
-    price: 115000, // COP
+    price: 80000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%284%29-QBW7S154YeWejja61rDTIIUjuhWgDL.jpeg",
     category: "Especiales",
     colors: ["#FFB703", "#FFFFFF", "#F8C8DC"]
@@ -155,7 +155,7 @@ const products: Product[] = [
     id: 17,
     name: "Girasol Individual Elegante",
     description: "Girasol individual de satin con lazo amarillo brillante. Envuelto en papel blanco moderno.",
-    price: 32000, // COP
+    price: 25000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%2012.37.34%20PM%20%281%29-J9A1HE0bv9awaG6vrDaqlb7JGQsvPH.jpeg",
     category: "Individuales",
     colors: ["#FFB703", "#FFFFFF", "#4A5D23"]
@@ -164,7 +164,7 @@ const products: Product[] = [
     id: 18,
     name: "Girasoles con Kuromi",
     description: "Adorable ramo de girasoles con peluche de Kuromi en envoltorio de lunares. Perfecto para fans de Sanrio.",
-    price: 105000, // COP
+    price: 90000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-04-07%20at%202.47.33%20PM%20%282%29-KV7NvqW18zKGxQY4bKNDjqRaYcgIvb.jpeg",
     category: "Especiales",
     colors: ["#FFB703", "#1A1A1A", "#8B5CF6"]
@@ -173,7 +173,7 @@ const products: Product[] = [
     id: 19,
     name: "Florero Grande Colorido",
     description: "Espectacular florero grande con gerberas, tulipanes, lirios basicos, amapolas, margaritas y follage en tonos rosa, amarillo y azul. Incluye tarjeta personalizada.",
-    price: 110000, // COP
+    price: 100000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%284%29-pckY7jxdXmUOZ8ait0n6htC4R8n0IZ.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFB703", "#87CEEB"]
@@ -245,7 +245,7 @@ const products: Product[] = [
     id: 27,
     name: "Ramo Lirios Estrella con Luces",
     description: "Lujoso ramo con lirios realistas stargazer, follage y luces LED. Envuelto elegantemente con lazo rosa.",
-    price: 55000, // COP
+    price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.37%20PM-FtAX4G59TN14oK9gbHOzuupoqAhpz3.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
