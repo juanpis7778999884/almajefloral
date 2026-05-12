@@ -52,7 +52,16 @@ export default function Header() {
   ]
 
   return (
-    <header className="sticky top-0 z-50 bg-[var(--card)]/95 backdrop-blur-sm border-b-2 border-dashed border-[var(--accent)]">
+    <header className="sticky top-0 z-50">
+      {/* Banner de aviso importante */}
+      <div className="bg-[var(--primary)] text-[var(--primary-foreground)] py-2 px-4 text-center">
+        <p className="font-body text-xs sm:text-sm">
+          <span className="font-semibold">Asegura tu pedido con un anticipo del 50%</span>
+          <span className="hidden sm:inline"> | Ramos grandes: 5 dias de anticipacion | Individuales: 1 dia</span>
+        </p>
+      </div>
+      
+      <div className="bg-[var(--card)]/95 backdrop-blur-sm border-b-2 border-dashed border-[var(--accent)]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
@@ -130,6 +139,7 @@ export default function Header() {
             </div>
           </nav>
         )}
+      </div>
       </div>
 
       {/* Decorative thread line */}

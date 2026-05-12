@@ -171,81 +171,81 @@ const products: Product[] = [
   },
   {
     id: 19,
-    name: "Arreglo Colorido Dia de las Madres",
-    description: "Espectacular arreglo multicolor con tulipanes, margaritas, lirios y flores variadas en tonos rosa, amarillo y azul. Incluye tarjeta personalizada.",
-    price: 130000, // COP
+    name: "Florero Grande Colorido",
+    description: "Espectacular florero grande con gerberas, tulipanes, lirios basicos, amapolas, margaritas y follage en tonos rosa, amarillo y azul. Incluye tarjeta personalizada.",
+    price: 110000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%284%29-pckY7jxdXmUOZ8ait0n6htC4R8n0IZ.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFB703", "#87CEEB"]
   },
   {
     id: 20,
-    name: "Ramo Iluminado Nocturno",
-    description: "Magico ramo de lirios y margaritas con luces LED calidas. Perfecto para momentos romanticos y fotos nocturnas.",
-    price: 125000, // COP
+    name: "Jardin de Hadas con Luces",
+    description: "Magico ramo jardin de hadas con tulipanes, margaritas, lirios basicos, lirio realista, follage y luces LED calidas. Perfecto para momentos romanticos.",
+    price: 90000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM%20%282%29-jZkRCEeIT3UymjFBYlod99P6oQwkjC.jpeg",
     category: "Especiales",
     colors: ["#F8C8DC", "#FFFFFF", "#FFD700"]
   },
   {
     id: 21,
-    name: "Girasoles Mini en Maceta",
-    description: "Adorables girasoles miniatura en maceta artesanal cafe. Perfectos para decorar escritorios y espacios pequenos.",
-    price: 25000, // COP
+    name: "Mini Girasoles en Maceta",
+    description: "Adorables mini girasoles en maceta artesanal cafe. Perfectos para decorar escritorios y espacios pequenos.",
+    price: 8000, // COP - precio por unidad
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%281%29-HGnGlu5bYSdqdUbzvJmMJODg7t2rXB.jpeg",
     category: "Individuales",
     colors: ["#FFB703", "#4A2C2A", "#4A5D23"]
   },
   {
     id: 22,
-    name: "Orquidea Elegante",
-    description: "Sofisticada orquidea rosa y blanca en maceta ceramica blanca. Una pieza de arte floral de larga duracion.",
-    price: 95000, // COP
+    name: "Orquidea Realista",
+    description: "Sofisticada orquidea realista rosa y blanca en maceta ceramica blanca. Una pieza de arte floral de larga duracion.",
+    price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM%20%281%29-pAcEFjyZcJzcbnRd1bH9oc61DRRpwe.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
   },
   {
     id: 23,
-    name: "Lirios Rosa en Maceta",
-    description: "Hermosos lirios rosa con capullos en maceta blanca elegante. Ideal para regalo y decoracion del hogar.",
-    price: 65000, // COP
+    name: "Lirios Carmesi en Maceta",
+    description: "Hermosos lirios realistas rosa con capullos en maceta blanca elegante. Ideal para regalo y decoracion del hogar.",
+    price: 45000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.38%20PM-aqRAhzD2iwY1B6rzUb4kDZHWZaC7Gj.jpeg",
     category: "Arreglos",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
   },
   {
     id: 24,
-    name: "Ramo Azul Cielo",
-    description: "Impresionante ramo de lirios y tulipanes azules envuelto en papel azul. Perfecto para ocasiones especiales.",
-    price: 85000, // COP
+    name: "Ramo Lily Azul",
+    description: "Impresionante ramo lily con tulipanes, lirios basicos y lirio realista azules envuelto en papel azul.",
+    price: 60000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.38%20PM%20%281%29-U6rrraG8R4KkxsX5xHzqGjQ7uhLMfJ.jpeg",
     category: "Ramos",
     colors: ["#87CEEB", "#FFFFFF", "#4A5D23"]
   },
   {
     id: 25,
-    name: "Bouquet Tulipanes Feliz Dia Madre",
-    description: "Delicado bouquet de tulipanes rosa y durazno con hortensias y margaritas. Incluye tarjeta de Feliz Dia de la Madre.",
-    price: 110000, // COP
+    name: "Bouquet 1 Dia de la Madre",
+    description: "Delicado bouquet con tulipanes, rosa, amapolas, hortensia, anturio, lirio basico y follage. Incluye tarjeta de Feliz Dia de la Madre.",
+    price: 80000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%282%29-Y10IsVbLiD198eTTsNUnnqRfsOMbyS.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#FFDAB9", "#E6E6FA"]
   },
   {
     id: 26,
-    name: "Mini Bouquet Me Encantas",
-    description: "Pequeno y romantico bouquet con tulipan y flores rosa, decorado con encaje y tarjeta personalizada.",
-    price: 45000, // COP
+    name: "Individual Tulipan Realista",
+    description: "Pequeno y romantico bouquet individual con tulipan realista y flores rosa, decorado con encaje y tarjeta personalizada.",
+    price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.39%20PM-IZsaQuLi8hMXGmXlQezKitBncLxYTo.jpeg",
     category: "Individuales",
     colors: ["#F8C8DC", "#FFFFFF", "#C0C0C0"]
   },
   {
     id: 27,
-    name: "Ramo Lirios y Tulipanes Deluxe",
-    description: "Lujoso ramo con lirios stargazer, tulipanes rosa y corazon decorativo. Envuelto elegantemente con lazo.",
-    price: 115000, // COP
+    name: "Ramo Lirios Estrella con Luces",
+    description: "Lujoso ramo con lirios realistas stargazer, follage y luces LED. Envuelto elegantemente con lazo rosa.",
+    price: 55000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.37%20PM-FtAX4G59TN14oK9gbHOzuupoqAhpz3.jpeg",
     category: "Ramos",
     colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
@@ -254,10 +254,28 @@ const products: Product[] = [
     id: 28,
     name: "Rosa Azul Lindo Dia",
     description: "Hermosa rosa azul individual con tarjeta de Lindo Dia y Snoopy. Envuelta en tul blanco con lazo azul.",
-    price: 38000, // COP
+    price: 20000, // COP
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM%20%283%29-mDZRoYIgaCU87GE369Cmq3tP2aLbZ1.jpeg",
     category: "Individuales",
     colors: ["#87CEEB", "#FFFDD0", "#FFFFFF"]
+  },
+  {
+    id: 29,
+    name: "Ramo Girasol con Mariposas",
+    description: "Colorido ramo con girasol, margaritas moradas y azules, decorado con mariposas. Envuelto en papel lila.",
+    price: 30000, // COP
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.41%20PM-4Dprvea6QsOA648mgKuZ7xjoqhrqKt.jpeg",
+    category: "Ramos",
+    colors: ["#FFB703", "#9370DB", "#87CEEB"]
+  },
+  {
+    id: 30,
+    name: "Ramo Rose Elegante",
+    description: "Ramo rose con tulipanes, gerberas, rosa y follage. Envuelto en papel rosa con lazo y mariposa.",
+    price: 55000, // COP
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-12%20at%203.14.40%20PM-lmRo9giM5JO6As2I3ZYAR5JeR7la2O.jpeg",
+    category: "Ramos",
+    colors: ["#F8C8DC", "#FFFFFF", "#4A5D23"]
   }
 ]
 // ==========================================
